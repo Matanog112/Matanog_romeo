@@ -6,4 +6,9 @@ body{
       }h2{
       text-align:center;
     
+}img{
+    margin-right:80%;
+  width: 120px;
+  height:150px;
+  border-radius:100px;
 }
